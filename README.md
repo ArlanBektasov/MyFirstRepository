@@ -1,2 +1,2 @@
 # MyFirstRepository
-i like pancakes
+i like pancakes, я люблю блинчики
